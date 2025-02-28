@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-yohacode",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yohanan08/random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Andersson Herrera <andersson.herrera3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yohanan08/random-str-msg/issues"
+  },
+  "homepage": "https://github.com/Yohanan08/random-str-msg#readme",
+  "bin": {
+    "random-srt-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
